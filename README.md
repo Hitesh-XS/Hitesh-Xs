@@ -58,35 +58,35 @@
 
 ### 🚀 Featured Projects
 
-#### 🎬 [MoodFlix](https://github.com/Hitesh-Xs)
+#### 🎬 [MoodFlix](https://github.com/Hitesh-XS)
 A Django-based movie recommendation system powered by a hybrid machine learning model. Combines multiple recommendation approaches to suggest movies tailored to user preferences and mood.
 `Django` `Machine Learning` `Hybrid Recommendation` `Python`
 
-#### 🚚 [Fleet_System](https://github.com/Hitesh-Xs)
+#### 🚚 [Fleet_System](https://github.com/Hitesh-XS)
 A fleet management system that solves the **Vehicle Routing Problem (VRP)** — optimizing routes for multiple vehicles to improve delivery efficiency and reduce cost.
 `Optimization` `Algorithms` `Python`
 
-> 📌 *Update the links above to point directly to each repo, e.g. `github.com/Hitesh-Xs/MoodFlix`*
+> 📌 *Update the links above to point directly to each repo, e.g. `github.com/Hitesh-XS/MoodFlix`*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hitesh-Xs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-Xs&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hitesh-XS&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-XS&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh-Xs&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh-XS&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-Xs&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-XS&theme=tokyo-night" />
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Hitesh-Xs">Hitesh-Xs</a></i>
+  <i>⭐️ From <a href="https://github.com/Hitesh-XS">Hitesh-XS</a></i>
 </p>
