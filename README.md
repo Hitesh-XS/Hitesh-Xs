@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hitesh Gaikar</h1>
+<h1 align="center">Hi 👋, I'm Hitesh</h1>
 <h3 align="center">Backend Developer • AI/ML Enthusiast • Problem Solver</h3>
 
 <p align="center">
