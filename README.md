@@ -166,22 +166,6 @@ Tech Stack
 
 Django • Machine Learning • Python • Scikit-Learn
 
----
-
-## 🚦 AI Traffic Congestion Prediction
-
-Machine Learning system that predicts traffic congestion using historical event data.
-
-Features
-
-- Severity Prediction
-- Risk Analysis
-- Route Intelligence
-- Visualization Dashboard
-
-Tech
-
-Python • TensorFlow • CatBoost • Pandas
 
 ---
 
