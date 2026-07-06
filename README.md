@@ -21,7 +21,6 @@
 
 - Advanced Django
 - Spring Boot
-- Graph Algorithms
 - System Design
 - Machine Learning
 - Computer Vision
