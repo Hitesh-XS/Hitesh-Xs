@@ -222,7 +222,7 @@ Django • Machine Learning • Python • Scikit-Learn
 
 <p align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+### ⭐ "Code. Learn. Build. Repeat ."
 
 </p>
 
