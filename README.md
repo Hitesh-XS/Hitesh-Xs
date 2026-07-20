@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Hitesh</h1>
 <h3 align="center">Backend Developer • AI/ML Enthusiast • Problem Solver</h3>
 
@@ -192,4 +192,3 @@ Hybrid Movie Recommendation System using Machine Learning.
 <p align="center">
 ⭐ <b>Code. Learn. Build. Repeat.</b> ⭐
 </p>
-```
