@@ -154,10 +154,39 @@ Hybrid Movie Recommendation System using Machine Learning.
 
 ---
 
+# 📈 GitHub Stats
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hitesh-XS&theme=tokyonight"
+    alt="Hitesh's GitHub Stats"
+  />
+
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hitesh-XS&theme=tokyonight"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=Hitesh-XS&theme=tokyonight&hide_border=true"
+    alt="Hitesh's GitHub Streak"
+  />
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hitesh-XS&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Hitesh-XS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="Hitesh's GitHub Trophies"
+  />
 </p>
 
 ---
@@ -165,10 +194,12 @@ Hybrid Movie Recommendation System using Machine Learning.
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-XS&theme=tokyo-night" alt="Contribution Graph"/>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-XS&theme=tokyo-night&hide_border=true"
+    alt="Hitesh's GitHub Contribution Graph"
+  />
 </p>
-
----
 
 # 📫 Connect With Me
 
