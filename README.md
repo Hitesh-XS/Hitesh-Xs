@@ -1,9 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Hitesh</h1>
-<h3 align="center">Backend Developer • AI/ML Enthusiast • Problem Solver</h3>
+
+<h3 align="center">
+Backend Developer • AI/ML Enthusiast • Competitive Programmer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+Developer;AI%2FML+Developer;Building+Real-Time+Systems;Competitive+Programmer;Always+Learning+New+Technologies" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+Developer;AI%2FML+Developer;Building+Real-Time+Systems;Competitive+Programmer;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -12,9 +14,9 @@
 
 🎓 Computer Science Student
 
-💻 Passionate about Backend Development, System Design, AI/ML, and Competitive Programming.
+💻 Passionate about **Backend Development, AI/ML, Computer Vision and System Design.**
 
-🚀 I enjoy building scalable backend systems, real-time applications, optimization engines, and machine learning solutions.
+🚀 I enjoy building scalable backend systems, real-time applications, optimization engines and machine learning solutions.
 
 🌱 **Currently Learning**
 
@@ -26,9 +28,9 @@
 
 🎯 **Current Focus**
 
-- Fleet Route Optimization Platform
-- Hybrid Recommendation Systems
-- AI-powered Applications
+- 🚚 Fleet Route Optimization Platform
+- 🎬 Hybrid Recommendation Systems
+- 🤖 AI-powered Applications
 
 ---
 
@@ -39,22 +41,18 @@
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-
----
 
 ## Backend
 
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
 </p>
-
----
 
 ## Frontend
 
@@ -64,8 +62,6 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
----
 
 ## AI / ML
 
@@ -79,18 +75,14 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 </p>
 
----
-
 ## Database
 
 <p>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-
----
 
 ## Tools
 
@@ -99,7 +91,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -108,14 +100,14 @@
 
 ## 🚚 Fleet Route Optimization Platform
 
-A real-time fleet management system that solves the Vehicle Routing Problem (VRP) using graph algorithms, route optimization, WebSockets, and interactive maps.
+A real-time fleet management system for solving the Vehicle Routing Problem using graph algorithms, WebSockets and interactive maps.
 
 **Tech Stack**
 
 - Django
 - React
-- SQLite
 - Leaflet
+- SQLite
 - WebSockets
 - Dijkstra
 - A*
@@ -128,7 +120,7 @@ Hybrid Movie Recommendation System using Machine Learning.
 
 ### Features
 
-- Content-Based Filtering
+- Content-Based Recommendation
 - Collaborative Filtering
 - Personalized Recommendations
 
@@ -143,83 +135,37 @@ Hybrid Movie Recommendation System using Machine Learning.
 
 # 📈 GitHub Stats
 
+> If these cards don't load, it's because the public services are temporarily unavailable.
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hitesh-XS&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-XS&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hitesh-XS&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh-XS&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hitesh-XS&theme=tokyonight"
-    alt="Hitesh's GitHub Stats"
-  />
-
-  <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hitesh-XS&theme=tokyonight"
-    alt="Most Used Languages"
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hitesh-XS&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hitesh-XS&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=Hitesh-XS&theme=tokyonight&hide_border=true"
-    alt="Hitesh's GitHub Streak"
-  />
+<img src="https://streak-stats.demolab.com?user=Hitesh-XS&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Hitesh-XS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="Hitesh's GitHub Trophies"
-  />
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-XS&theme=tokyo-night&hide_border=true"
-    alt="Hitesh's GitHub Contribution Graph"
-  />
-</p>
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/Hitesh-XS" target="_blank">
+<a href="https://github.com/Hitesh-XS">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<!-- Replace with your LinkedIn if available -->
-<!--
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
--->
 
 </p>
 
 ---
 
 <p align="center">
-⭐ <b>Code. Learn. Build. Repeat.</b> ⭐
+
+⭐ <b>Code • Learn • Build • Repeat</b> ⭐
+
 </p>
