@@ -109,8 +109,6 @@ A real-time fleet management system for solving the Vehicle Routing Problem usin
 - Leaflet
 - SQLite
 - WebSockets
-- Dijkstra
-- A*
 
 ---
 
