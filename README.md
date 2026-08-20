@@ -18,7 +18,7 @@ Backend Developer • AI/ML Enthusiast • Competitive Programmer
 
 🚀 I enjoy building scalable backend systems, real-time applications, optimization engines and machine learning solutions.
 
-🌱 **Currently Learning**
+**Currently Learning**
 
 - Advanced Django
 - Spring Boot
