@@ -12,7 +12,7 @@ Backend Developer • AI/ML Enthusiast • Competitive Programmer
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Student
+ Computer Science Student
 
 💻 Passionate about **Backend Development, AI/ML, Computer Vision and System Design.**
 
