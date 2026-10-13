@@ -54,14 +54,6 @@ Backend Developer • AI/ML Enthusiast • Competitive Programmer
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
 </p>
 
-## Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
 
 ## AI / ML
 
