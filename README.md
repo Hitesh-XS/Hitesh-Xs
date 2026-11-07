@@ -10,7 +10,6 @@ Backend Developer • AI/ML Enthusiast • Competitive Programmer
 </p>
 
 ---
-
 # 👨‍💻 About Me
 
  Computer Science Student
